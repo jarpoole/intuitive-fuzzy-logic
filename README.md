@@ -7,7 +7,7 @@
 Watch the video that goes with this repository for a primer on fuzzy logic control here: https://www.youtube.com/watch?v=_MahS96EqQA
 
 ## IEEE Paper
-Read the [IEEE paper](IntuitiveFuzzyLogicControllerDesignUsingMATLABSimulink.pdf) for a more complete understanding of applying intuition to fuzzy logic controller design 
+Read the [IEEE paper](docs/IntuitiveFuzzyLogicControllerDesignUsingMATLABSimulink.pdf) for a more complete understanding of applying intuition to fuzzy logic controller design 
 
 ## Simulation
 The simulation folder contains the MATLAB/Simulink source code for a 2-wheeled robot and self-balancing controller.
